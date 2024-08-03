@@ -1,0 +1,1 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Practicas-project-euler\rs\largest_prime_factor\target\debug\largest_prime_factor.exe: C:\Users\cesar\OneDrive\Documents\GitHub\Practicas-project-euler\rs\largest_prime_factor\src\main.rs
