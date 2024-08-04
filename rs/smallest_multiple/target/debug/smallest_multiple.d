@@ -1,0 +1,1 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Practicas-project-euler\rs\smallest_multiple\target\debug\smallest_multiple.exe: C:\Users\cesar\OneDrive\Documents\GitHub\Practicas-project-euler\rs\smallest_multiple\src\main.rs
